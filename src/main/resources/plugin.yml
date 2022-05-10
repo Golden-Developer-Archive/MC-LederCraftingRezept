@@ -1,6 +1,5 @@
-name: CollinCrafting
+name: LederCraftingRezept
 version: '${project.version}'
-main: de.zrazzer.collincrafting.Main
+main: de.goldendeveloper.ledercraftingrezept.Main
 api-version: 1.18
-authors: [ zRazzer ]
-description: Für dich Collin <3
+authors: [ Golden-Developer ]
