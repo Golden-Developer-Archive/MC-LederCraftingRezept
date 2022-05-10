@@ -1,0 +1,6 @@
+name: CollinCrafting
+version: '${project.version}'
+main: de.zrazzer.collincrafting.Main
+api-version: 1.18
+authors: [ zRazzer ]
+description: Für dich Collin <3
